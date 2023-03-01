@@ -5,23 +5,22 @@ With 10+ years of experience in the field, I have a deep understanding of PHP an
 I possess expertise in web services, including REST and SOAP, and am proficient in various web development frameworks such as WordPress, PHP, Laravel, and CodeIgniter. 
 Additionally, I am highly skilled in Javascript, jQuery, Vue.js, React.js, AngularJs, and Node.
 
-Frontend Development:
-✅ HTML, CSS, Bootstrap, Javascript, jQuery
-✅ Vue.js, Tailwind.css
+- Frontend Development:
+  - ✅ HTML, CSS, Bootstrap, Javascript, jQuery
+  - ✅ Vue.js, Tailwind.css
 
-Backend Development:
-✅ PHP, Python, Laravel, Codeigniter, Django
+- Backend Development:
+  - ✅ PHP, Python, Laravel, Codeigniter, Django
+  - ✅ AWS Infrastructure, DevOps, AWS Architect, AWS Services (EC2, ECS, Fargate, S3, Lambda, DynamoDB, RDS, Elastic Beanstalk, AWS CDK, AWS CodeDeploy etc.), Serverless application development.
 
-✅ AWS Infrastructure, DevOps, AWS Architect, AWS Services (EC2, ECS, Fargate, S3, Lambda, DynamoDB, RDS, Elastic Beanstalk, AWS CDK, AWS CodeDeploy etc.), Serverless application development.
+- Content Management:
+  - ✅ Wordpress
 
-Content Management:
-✅ Wordpress
+- Database:
+  - ✅ MySQL, MariaDb, Postgres, MongoDb, DynamoDB
 
-Database:
-✅ MySQL, MariaDb, Postgres, MongoDb, DynamoDB
-
-Build/Deploy:
-✅ AWS CodePipeline, AWS CodeDeploy, Github actions, Bitbucket actions, Docker
+- Build/Deploy:
+  - ✅ AWS CodePipeline, AWS CodeDeploy, Github actions, Bitbucket actions, Docker
 
 I work at US timezones, and am easy to communicate with on Slack, Zoom, or any other remote collaboration platform. Clear communication is critical to effective software development, and I speak and write excellent English.
 
