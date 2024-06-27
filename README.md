@@ -20,7 +20,7 @@ Additionally, I am highly skilled in Javascript, jQuery, Vue.js, React.js, Angul
   - ✅ MySQL, MariaDb, Postgres, MongoDb, DynamoDB
 
 - Build/Deploy:
-  - ✅ AWS CodePipeline, AWS CodeDeploy, Github actions, Bitbucket actions, Docker
+  - ✅ AWS CodePipeline, AWS CodeDeploy, Github actions, Bitbucket pipline, Docker
 
 - 📫 How to reach me:
   - Email: muhammed.a.radwan@gmail.com
