@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Mohamed Radwan
-
-With 10+ years of experience in the field, I have a deep understanding of PHP and Javascript.
+Experienced Senior Software Engineer with expertise in full-stack development, specializing in PHP and JavaScript frameworks.
+Skilled in developing and optimizing web applications using Laravel and Vue.js.
 
 I possess expertise in web services, including REST and SOAP, and am proficient in various web development frameworks such as WordPress, PHP, Laravel, and CodeIgniter. 
 Additionally, I am highly skilled in Javascript, jQuery, Vue.js, React.js, AngularJs, and Node.
