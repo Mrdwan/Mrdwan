@@ -1,25 +1,28 @@
-Experienced Senior Software Engineer with expertise in full-stack development, specializing in PHP and JavaScript frameworks.
-Skilled in developing and optimizing web applications using Laravel and Vue.js.
+Senior Full-Stack Engineer | PHP & JavaScript Specialist
+Expert in Laravel, Vue.js, AWS, and Scalable Solutions
 
-I possess expertise in web services, including REST and SOAP, and am proficient in various web development frameworks such as WordPress, PHP, Laravel, and CodeIgniter. 
-Additionally, I am highly skilled in Javascript, jQuery, Vue.js, React.js, AngularJs, and Node.
+About Me:
+I’m a senior software engineer with 10+ years of experience delivering secure, scalable web applications for B2B and B2C platforms. My focus is on modernizing legacy systems, optimizing performance, and integrating cutting-edge tools like AI and real-time WebSockets. I’ve led teams, mentored developers, and built platforms for education, e-commerce, and social impact—ensuring clean code, seamless user experiences, and alignment with business goals.
 
-- Frontend Development:
-  - ✅ HTML, CSS, Bootstrap, Javascript, jQuery
-  - ✅ Vue.js, Tailwind.css
+Technical Expertise
+✅ Backend : PHP (Laravel, Django), Python, Node.js, RESTful APIs, GraphQL
+✅ Frontend : Vue.js, React.js, HTML5, CSS3, Tailwind CSS
+✅ Cloud/DevOps : AWS (EC2, S3, Lambda), Docker, CI/CD Pipelines (GitHub Actions)
+✅ Databases : MySQL, PostgreSQL, MongoDB, DynamoDB, Redis
+✅ Other Tools : Mixpanel, Elasticsearch, Typesense, WebSockets
 
-- Backend Development:
-  - ✅ PHP, Python, Laravel, Codeigniter, Django
-  - ✅ AWS Infrastructure, DevOps, AWS Architect, AWS Services (EC2, ECS, Fargate, S3, Lambda, DynamoDB, RDS, Elastic Beanstalk, AWS CDK, AWS CodeDeploy etc.), Serverless application development.
+Recent Projects:
+✅ Social Media Platform (Spoutible Inc.) :
+Migrated legacy PHP to Laravel and modernized the frontend to Vue.js, ensuring zero downtime during traffic surges and integrating AI-driven features.
+✅ E-Commerce & Charity Platforms:
+Built and maintained platforms like 25hospital.org (secure donations) and optimized AWS costs for high-traffic apps.
+✅ Data-Driven Apps (AppGrooves) :
+Implemented Mixpanel for A/B testing and scalable coupon systems to improve user engagement.
+Why Collaborate With Me?
 
-- Content Management:
-  - ✅ Wordpress
-
-- Database:
-  - ✅ MySQL, MariaDb, Postgres, MongoDb, DynamoDB
-
-- Build/Deploy:
-  - ✅ AWS CodePipeline, AWS CodeDeploy, Github actions, Bitbucket pipline, Docker
+Problem-Solving : Skilled in resolving performance bottlenecks and legacy system challenges.
+Team Leadership : Experienced in guiding cross-functional teams and mentoring junior developers.
+Clean Code Advocate : Strong focus on test coverage, maintainability, and modern best practices.
 
 - 📫 How to reach me:
   - Email: muhammed.a.radwan@gmail.com
