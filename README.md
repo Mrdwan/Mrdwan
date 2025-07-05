@@ -2,7 +2,7 @@ Senior Full-Stack Engineer | PHP & JavaScript Specialist
 Expert in Laravel, Vue.js, AWS, and Scalable Solutions
 
 About Me:
-I’m a senior software engineer with 10+ years of experience delivering secure, scalable web applications for B2B and B2C platforms. My focus is on modernizing legacy systems, optimizing performance, and integrating cutting-edge tools like AI and real-time WebSockets. I’ve led teams, mentored developers, and built platforms for education, e-commerce, and social impact—ensuring clean code, seamless user experiences, and alignment with business goals.
+Software Engineer with 7+ years of experience designing and delivering scalable, high-availability web applications for platforms serving 1M+ users. Expert in PHP, Python, JavaScript, TypeScript, Vue.js, and cloud-native technologies. Proven track record of optimizing system performance, reducing operational costs, and architecting robust solutions that ensure 99.9% uptime and rapid feature delivery. Certified in AWS Cloud, Meta Back-End, and advanced software development.
 
 Technical Expertise
 ✅ Backend : PHP (Laravel, Django), Python, Node.js, RESTful APIs, GraphQL
@@ -18,11 +18,6 @@ Migrated legacy PHP to Laravel and modernized the frontend to Vue.js, ensuring z
 Built and maintained platforms like 25hospital.org (secure donations) and optimized AWS costs for high-traffic apps.
 ✅ Data-Driven Apps (AppGrooves) :
 Implemented Mixpanel for A/B testing and scalable coupon systems to improve user engagement.
-Why Collaborate With Me?
-
-Problem-Solving : Skilled in resolving performance bottlenecks and legacy system challenges.
-Team Leadership : Experienced in guiding cross-functional teams and mentoring junior developers.
-Clean Code Advocate : Strong focus on test coverage, maintainability, and modern best practices.
 
 - 📫 How to reach me:
   - Email: muhammed.a.radwan@gmail.com
