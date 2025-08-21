@@ -13,7 +13,7 @@ Technical Expertise
 
 Recent Projects:
 ✅ Social Media Platform (Spoutible Inc.) :
-Migrated legacy PHP to Laravel and modernized the frontend to Vue.js, ensuring zero downtime during traffic surges and integrating AI-driven features.
+Migrated legacy Javascript/jQuery frontend to Vue.js, ensuring zero downtime during traffic surges and integrating AI-driven features.
 ✅ E-Commerce & Charity Platforms:
 Built and maintained platforms like 25hospital.org (secure donations) and optimized AWS costs for high-traffic apps.
 ✅ Data-Driven Apps (AppGrooves) :
